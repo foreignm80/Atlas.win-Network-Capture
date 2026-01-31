@@ -1,8 +1,8 @@
 # Atlas.win - Network Capture Tool
 
-*i do not condone using this for any harmful purpose*
-*anything done with this code i am not responsible for*
-*use for eductional purposes only*
+*i do not condone using this for any harmful purpose.*
+*anything done with this code i am not responsible for.*
+*use for eductional purposes only.*
 
 # How to Use
 1. Download Main.py
