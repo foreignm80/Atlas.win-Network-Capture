@@ -10,4 +10,4 @@
 3. run python main.py
 4. for interface choose your tp if you want to use this code for a game console.
 
-you can modify this code in any way you would like!
+    you can modify this code in any way you would like!
